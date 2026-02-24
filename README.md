@@ -38,8 +38,6 @@
 2. Tarayıcınızda `http://localhost/PHP/matris.php` adresine gidin.
 3. Matris boyutunu ve şekli seçerek "Şekli Çiz" butonuna tıklayın.
 
-## Ekran Görüntüsü
-![Matris Çiz Ekran Görüntüsü](screenshot.png)
-
 ---
+
 Bu proje, PHP ve CSS kullanılarak dinamik matris çizimi için geliştirilmiştir. Herhangi bir sorunuz veya öneriniz varsa lütfen iletişime geçin.
